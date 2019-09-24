@@ -1,4 +1,4 @@
-# random-meal-generator
+# Random Meal Generator
 
 ## FreeCodeCamp Project From Florin Pop
 - https://www.freecodecamp.org/news/creating-a-random-meal-generator/
